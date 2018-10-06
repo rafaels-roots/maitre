@@ -1,0 +1,10 @@
+# Locamento de memória Javascript
+# Websockets HTML5
+# Multipla Impressora
+# Perfomance(pedidos_itens)
+# setor(cadastro.pro)
+# mobile.SilentScroll
+# mod_deflate e gzip [ok]
+# Reorganizar Cardápio WL
+# permutar_itens.php [select null mes_destino]
+# Box Shadow low

@@ -1,0 +1,1 @@
+select imp.imp_codigo,imp.imp_ip, imp.imp_porta,imp.imp_local, imp.imp_ativa,imp.imp_avancorodape from imp imp order by imp.imp_codigo 
